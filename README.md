@@ -1,2 +1,2 @@
 # hello-world
-GitHub flow practicig
+GitHub flow practicing
